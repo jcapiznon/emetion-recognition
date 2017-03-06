@@ -1,0 +1,13 @@
+{
+  "api_key": {
+	"label": "API Key",
+	"type": "Password",
+	"required": true,
+	"help": "Microsoft Project Oxford Emotion API key."
+  },
+  "face_rectangles": {
+	"label": "Face Rectangles",
+	"type": "String",
+	"help": "(Optional) Recognizes the emotions expressed by one or more people in an image, as well as returns a bounding box for the face. The emotions detected are happiness, sadness, surprise, anger, fear, contempt, and disgust or neutral."
+  }
+}
